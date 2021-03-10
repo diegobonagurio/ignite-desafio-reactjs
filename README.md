@@ -11,7 +11,10 @@ Inclusão de novas tarefas</br>
 Marcar como uma tarefa concluida</br>
 Remover tarefa</br>
 
-https://user-images.githubusercontent.com/56571038/110643620-0b9dd200-8193-11eb-8d54-927b6c310a12.gif
+
+
+
+![Tasks](https://user-images.githubusercontent.com/56571038/110643620-0b9dd200-8193-11eb-8d54-927b6c310a12.gif)
 
 
 
