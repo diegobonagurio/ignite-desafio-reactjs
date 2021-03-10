@@ -7,9 +7,9 @@ Link do desafio: https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2
 
 Realizado:
 
-Inclusão de novas tarefas
-Marcar como uma tarefa concluida
-Remover tarefa
+Inclusão de novas tarefas</br>
+Marcar como uma tarefa concluida</br>
+Remover tarefa</br>
 
 
 
